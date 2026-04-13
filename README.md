@@ -1,9 +1,12 @@
 # ⚡ HTML Live Editor
 
-A single-file, browser-based HTML editor with live preview and visual editing mode.
-No server, no installation, no dependencies — just open and use.
+> Edit HTML and instantly see the preview — and even edit the preview to update the code.
 
-![HTML Live Editor demo](html_editor-ezgif.com-video-to-gif-converter.gif)
+![demo](html_editor-ezgif.com-video-to-gif-converter.gif)
+
+## 🌐 Live Demo
+
+**[https://aayjaaa.github.io/htmleditor](https://aayjaaa.github.io/htmleditor)**
 
 ---
 
@@ -24,7 +27,7 @@ No server, no installation, no dependencies — just open and use.
 
 ### Basic (Code → Preview)
 
-1. Open `html-live-editor.html` in any modern browser
+1. Open in browser or visit the [Live Demo](https://aayjaaa.github.io/htmleditor)
 2. Paste your HTML into the left pane
 3. Click **▶ Apply Preview** (or press `F5`)
 
@@ -70,20 +73,14 @@ Changing language while in demo mode also swaps the demo content.
 | Firefox | ✅ Full |
 | Safari | ⚠️ Visual Edit may vary |
 
-> Visual Edit mode uses `iframe.contentDocument` to access the preview DOM directly.
-> This works because `srcdoc` iframes are same-origin with the parent page.
-
 ---
 
 ## Installation
 
-None required. Download and open:
+No install needed. Either:
 
-```
-html-live-editor.html
-```
-
-That's it.
+- 🌐 Use the **[Live Demo](https://aayjaaa.github.io/htmleditor)** directly in browser
+- 💾 Download `index.html` and open locally — zero dependencies
 
 ---
 
