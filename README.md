@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-**[https://aayjaaa.github.io/htmleditor](https://aayjaaa.github.io/htmleditor)**
+**[https://NabiLab-dev.github.io/htmleditor](https://NabiLab-dev.github.io/htmleditor)**
 
 ---
 
@@ -27,7 +27,7 @@
 
 ### Basic (Code → Preview)
 
-1. Open in browser or visit the [Live Demo](https://aayjaaa.github.io/htmleditor)
+1. Open in browser or visit the [Live Demo](https://NabiLab-dev.github.io/htmleditor)
 2. Paste your HTML into the left pane
 3. Click **▶ Apply Preview** (or press `F5`)
 
@@ -79,7 +79,7 @@ Changing language while in demo mode also swaps the demo content.
 
 No install needed. Either:
 
-- 🌐 Use the **[Live Demo](https://aayjaaa.github.io/htmleditor)** directly in browser
+- 🌐 Use the **[Live Demo](https://NabiLab-dev.github.io/htmleditor)** directly in browser
 - 💾 Download `index.html` and open locally — zero dependencies
 
 ---
